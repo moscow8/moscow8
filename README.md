@@ -34,9 +34,6 @@ SQL запросы:
 <a href="https://www.telerik.com/fiddler">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
 </a>
-<a href="https://codemagic.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Codemagic.png" alt="Codemagic" width="50" height="50" /> 
-</a>
 <a href="https://developer.apple.com/xcode/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Xcode.png" alt="Xcode" width="50" height="50" />
 </a> 
