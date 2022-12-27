@@ -37,7 +37,6 @@ SQL запросы:
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
 <a href="https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
 </a>
 <a href="https://www.charlesproxy.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
@@ -86,9 +85,6 @@ SQL запросы:
 </a>
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
-</a>
-<a href="https://swagger.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://localizely.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/localizely.png" alt="Localizely" width="100" height="50" />
