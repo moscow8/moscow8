@@ -34,6 +34,16 @@ SQL запросы:
 
 
 
+## Мои контакты:
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kizlyarr)
+
+
+
+
+
+
+
+
 
 
 
