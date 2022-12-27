@@ -26,7 +26,7 @@
 SQL запросы:
 
 ## Инструменты и технологии:
-
+<a href="https://www.telerik.com/fiddler">
 
 
 
